@@ -111,3 +111,6 @@ This system can easily be extended into a complete ERP.
 
 ![Screenshot_12-12-2025_175928_localhost](https://github.com/user-attachments/assets/4b396db2-d78e-44bf-8b72-9ae52433d78f) &nbsp;&nbsp;&nbsp;&nbsp;
 
+![Screenshot_12-12-2025_175949_localhost](https://github.com/user-attachments/assets/eb6a8179-da5f-4eb2-951b-d774b9536fa7)
+
+

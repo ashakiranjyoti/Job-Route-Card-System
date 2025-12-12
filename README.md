@@ -50,3 +50,56 @@ When admin creates a new job card, an **Order ID auto-generates** based on date:
 "Fabrication",
 "Dispatch" 
 
+
+Once **Dispatch** is completed → Job moves to **Completed Job Cards**.
+
+---
+
+## ✔ Completed Job Cards
+Displays:
+- S.No  
+- Order ID  
+- Product Model  
+- Customer  
+- Quantity  
+- Status (Completed)  
+- Actions → **View | Delete | PDF**
+
+---
+
+## 📄 PDF Generation  
+All Job Card details + operations can be exported as PDF using **TCPDF**.
+
+---
+
+## 🗄 Tech Stack  
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap  
+- **Backend:** PHP (Core PHP)  
+- **Database:** MySQL  
+- **Server:** XAMPP (Apache, PHP, phpMyAdmin)  
+- **IDE:** VS Code  
+- **PDF Generator:** TCPDF  
+
+---
+
+## 🏷 Is This an ERP System?  
+Yes — this project functions as a **Production ERP Module** because it includes:  
+✔ Job Card Creation  
+✔ Workflow Routing  
+✔ Multi-stage Operations  
+✔ Production Tracking  
+✔ User Roles  
+✔ PDF Reports  
+✔ Document Attachments  
+✔ Status-based Workflow  
+
+This system can easily be extended into a complete ERP.
+
+---
+
+## 📦 Installation  
+1. Clone the repository  
+2. Copy project folder to `/xampp/htdocs`  
+3. Import the included SQL file into MySQL (phpMyAdmin)  
+4. Update `config.php` with DB credentials  
+5. Run in browser:  

@@ -102,4 +102,7 @@ This system can easily be extended into a complete ERP.
 2. Copy project folder to `/xampp/htdocs`  
 3. Import the included SQL file into MySQL (phpMyAdmin)  
 4. Update `config.php` with DB credentials  
-5. Run in browser:  
+5. Run in browser:
+
+<img width="1908" height="894" alt="screenshot-1765542464842" src="https://github.com/user-attachments/assets/50e76f5f-a370-45bd-971d-0b1e322a13b9" />
+

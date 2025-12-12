@@ -24,6 +24,12 @@ It includes **Admin and User roles**, automated order ID generation, operation t
   - Mark operations as completed  
 
 ---
+## 🔒 Security Features
+- Password hashing
+- Session management
+- SQL injection prevention
+- File upload validation
+- Role-based access control
 
 ## 📝 Job Card Creation
 When admin creates a new job card, an **Order ID auto-generates** based on date:  

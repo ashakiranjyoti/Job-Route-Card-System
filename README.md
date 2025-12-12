@@ -109,3 +109,5 @@ This system can easily be extended into a complete ERP.
 
 <img width="1908" height="894" alt="screenshot-1765542464842" src="https://github.com/user-attachments/assets/50e76f5f-a370-45bd-971d-0b1e322a13b9" /> &nbsp;&nbsp;&nbsp;&nbsp;
 
+![Screenshot_12-12-2025_175928_localhost](https://github.com/user-attachments/assets/4b396db2-d78e-44bf-8b72-9ae52433d78f)
+

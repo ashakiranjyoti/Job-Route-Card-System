@@ -104,5 +104,5 @@ This system can easily be extended into a complete ERP.
 4. Update `config.php` with DB credentials  
 5. Run in browser:
 
-<img width="1908" height="894" alt="screenshot-1765542464842" src="https://github.com/user-attachments/assets/50e76f5f-a370-45bd-971d-0b1e322a13b9" />
+<img width="1908" height="894" alt="screenshot-1765542464842" src="https://github.com/user-attachments/assets/50e76f5f-a370-45bd-971d-0b1e322a13b9" /> &nbsp;&nbsp;&nbsp;&nbsp;
 

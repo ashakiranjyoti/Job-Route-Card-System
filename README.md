@@ -104,5 +104,8 @@ This system can easily be extended into a complete ERP.
 4. Update `config.php` with DB credentials  
 5. Run in browser:
 
+
+![Screenshot_12-12-2025_1805_localhost](https://github.com/user-attachments/assets/e4cea27a-6a2b-4ba3-8887-665352933982)
+
 <img width="1908" height="894" alt="screenshot-1765542464842" src="https://github.com/user-attachments/assets/50e76f5f-a370-45bd-971d-0b1e322a13b9" /> &nbsp;&nbsp;&nbsp;&nbsp;
 

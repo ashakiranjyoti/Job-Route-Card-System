@@ -93,8 +93,7 @@ Yes — this project functions as a **Production ERP Module** because it include
 ✔ Job Card Creation  
 ✔ Workflow Routing  
 ✔ Multi-stage Operations  
-✔ Production Tracking  
-✔ User Roles  
+
 
 
  

@@ -91,8 +91,7 @@ All Job Card details + operations can be exported as PDF using **TCPDF**.
 ## 🏷 Is This an ERP System?  
 Yes — this project functions as a **Production ERP Module** because it includes:  
 ✔ Job Card Creation  
-✔ Workflow Routing  
-✔ Multi-stage Operations  
+
 
 
 

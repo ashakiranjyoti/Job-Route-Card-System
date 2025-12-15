@@ -95,7 +95,7 @@ Yes — this project functions as a **Production ERP Module** because it include
 ✔ Multi-stage Operations  
 ✔ Production Tracking  
 ✔ User Roles  
-✔ PDF Reports  
+
 
  
 

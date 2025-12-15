@@ -99,7 +99,7 @@ Yes — this project functions as a **Production ERP Module** because it include
 ✔ Document Attachments  
 ✔ Status-based Workflow  
 
-This system can easily be extended into a complete ERP.
+
 
 ---
 

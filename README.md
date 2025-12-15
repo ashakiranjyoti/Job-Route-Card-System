@@ -86,11 +86,6 @@ All Job Card details + operations can be exported as PDF using **TCPDF**.
 - **IDE:** VS Code  
 - **PDF Generator:** TCPDF  
 
----
-
-
- 
-
 
 
 ---

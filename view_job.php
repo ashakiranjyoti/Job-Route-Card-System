@@ -281,7 +281,6 @@ $total_ops = $conn->query("SELECT COUNT(*) as count FROM operations WHERE job_ca
     </div>
 </body>
 </html>
-
 <!-- Add this CSS -->
 <style>
 .file-attachment {
@@ -293,4 +292,5 @@ $total_ops = $conn->query("SELECT COUNT(*) as count FROM operations WHERE job_ca
 .file-icon {
     margin-right: 5px;
 }
+
 </style>

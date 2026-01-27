@@ -121,7 +121,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
                     <label>Start Date</label>
                     <input type="date" value="<?php echo $job['start_date']; ?>" readonly>
                 </div>
-                
+            
                 <div class="form-group">
                     <label>Target Date*</label>
                     <input type="date" name="target_date" value="<?php echo $job['target_date']; ?>" required>
@@ -133,4 +133,5 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         </form>
     </div>
 </body>
+
 </html>
